@@ -36,5 +36,5 @@ This interactive Power BI dashboard provides a comprehensive analysis of Netflix
 
 ## 📝 Author
 
-- Dashboard by [Mariam Raafat]
+- Dashboard by Mariam Raafat
 - Created as part of a data visualization learning journey
