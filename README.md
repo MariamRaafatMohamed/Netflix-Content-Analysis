@@ -8,7 +8,7 @@ This interactive Power BI dashboard provides a comprehensive analysis of Netflix
 - **🎭 Popular Genres**: Highlights the most frequent genres in the Netflix catalog.
 - **🌎 Country of Production**: Visualizes which countries contribute the most content to Netflix.
 - **📅 Release Year Trends**: Line or bar chart showing the evolution of Netflix content releases over the years.
-- **⭐ Ratings Breakdown** *(optional if included)*: Helps identify the most common ratings among available content.
+- **⭐ Ratings Breakdown**: Helps identify the most common ratings among available content.
 
 ## 📦 Tech Stack
 
